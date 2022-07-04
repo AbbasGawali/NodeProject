@@ -231,6 +231,13 @@ body{
 }
 
 /* respoonsive */
+@media(max-width:360px){
+    .main_layer .middle_layer p, .main_layer .middle_layer .fa {
+        font-size: 3rem;
+        font-weight: 900;
+    }
+}
+
 
 @media(max-width:768px){
     .main_header_left{
